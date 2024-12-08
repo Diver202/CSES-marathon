@@ -1,3 +1,3 @@
 n = int(input())
 del n
-print(len(set(input().split())))
+print(len(set(input.split())))
